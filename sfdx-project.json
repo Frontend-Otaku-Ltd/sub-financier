@@ -3,7 +3,7 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "test new",
+      "package": "test-new",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT"
     }
@@ -13,6 +13,6 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "66.0",
   "packageAliases": {
-    "test new": "0HodL0000004AnBSAU"
+    "test-new": "0HodL0000004AnBSAU"
   }
 }
